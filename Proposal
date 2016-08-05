@@ -1,0 +1,16 @@
+Can TV ads affect election results?
+
+Proposal will include a quick write up about the datasets we will use
+Political TV ad archive data 
+detail total count(statistically significant?)
+detail time of ads between 2015 and 2016?
+detail candidates to review and how will group primary election data
+Additional datasets: Number of electoral votes, number of popular votes, any form of numbers on the cost of tv ads
+then move into analyses 
+Owen would like to focus on correlations between positive and negative ad campaigns
+Does the time of day have any correlation with negative or positive ad campaigns?
+If possible find total paid media for vote
+Elizabeth would like to explore creating geolocation and cluster data from the location information provided. Will need to find a package with coordinates of each city and state
+Once created start to determine where the most republican and democratic tv ads are, divy up by region, state..
+Also focus on when ads are happening and see, with visual, what ads are running at a certain time in the day. Will we find that republican ads happen mostly in the morning, will presidential ads only run in the evening?
+Additionally of those campaigning was there an inverse reaction that as more positive tv ad campaigns were posted votes decreased?
