@@ -7,8 +7,10 @@ detail time of ads between 2015 and 2016?
 detail candidates to review and how will group primary election data
 Additional datasets: Number of electoral votes, number of popular votes, any form of numbers on the cost of tv ads
 then move into analyses 
-Owen would like to focus on correlations between positive and negative ad campaigns
-Does the time of day have any correlation with negative or positive ad campaigns?
+Link to source of additional datasets: https://www.kaggle.com/benhamner/2016-us-election
+
+Owen would like to focus on the relationship between television advertisements and receiving votes.  This will be done by examining the correlation between number of adds run in a state by groups supporting a particular candidate and the percentage of votes that candidate received.  This will be further broken down by the various types of ads run to reach a more detailed level of analysis.  In the dataset, an ad will count as supporting a candidate regardless of whether it is run by the campaign itself or by an outside organization.  Once the overall correlation between ads and votes has been calculated, the ads dataset will be broken down by the following categories: message, program type, time of day, sponsor type, and state.  The correlations between ads and votes for these subgroups will allow us to reach more robust conclusions about the relationship between ads and electoral support in the 2016 presidential primary.
+
 If possible find total paid media for vote
 Elizabeth would like to explore creating geolocation and cluster data from the location information provided. Will need to find a package with coordinates of each city and state
 Once created start to determine where the most republican and democratic tv ads are, divy up by region, state..
