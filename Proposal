@@ -1,19 +1,23 @@
-ons between ads and votes for these subgroups will allow us to reach more robust conclusions about the relationship between ads and electoral support in the 2016 presidential primary.
+For project 2 we propose to focus on creating visualizations and descriptive statistic from Political TV Ad Data and additional political demographic datasets. 
+We hope to detail what ads are being aired by region and time, how states are voting and correlations between the Political TV ad dataset and current election results.
+The current Political TV Ad data have a diverse set of data that looks at not only the presidential primary election, but House and Senate canidates also... dtail out Owen's proposal. 
+DETAIL Datasets:
+geopy
+https://github.com/geopy/geopy
 
-If possible find total paid media for vote
-Elizabeth would like to explore creating geolocation and cluster data from the location information provided. Will need to find a package with Review with Owen:
-How are states voting?
-What ads are being aired by region and time?
-Is there a target voter that happens to be recieving a majority of the votes?
+#ons between ads and votes for these subgroups will allow us to reach more robust conclusions about the relationship between ads and electoral support in the 2016 presidential primary.
+#what are we trying to say here and where to put this in
+#If possible find total paid media for vote
+# Do you still want to do this?
+Elizabeth would like to explore adding latitude and longitude coordinates to the current datasets and create cluster data visualizations from the location information provided within the datesets. 
 
-For our current project we will research the political demographic information and aggregate the data with Political TV Ad Archive Data.
 
 
 Proposal will include a quick write up about the datasets we will use
 Political TV ad archive data 
-detail total count(statistically significant?)
-detail time of ads between 2015 and 2016?
-detail candidates to review and how will group primary election data
+#detail total count(statistically significant?)LUIS would not like to see this in the proposal, but will like to see it in the report
+#detail time of ads between 2015 and 2016?
+#detail candidates to review and how will group primary election data
 Additional datasets: Number of electoral votes, number of popular votes, any form of numbers on the cost of tv ads
 then move into analyses 
 Link to source of additional datasets: https://www.kaggle.com/benhamner/2016-us-election
