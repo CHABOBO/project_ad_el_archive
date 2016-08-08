@@ -1,4 +1,13 @@
-Can TV ads affect election results?
+ons between ads and votes for these subgroups will allow us to reach more robust conclusions about the relationship between ads and electoral support in the 2016 presidential primary.
+
+If possible find total paid media for vote
+Elizabeth would like to explore creating geolocation and cluster data from the location information provided. Will need to find a package with Review with Owen:
+How are states voting?
+What ads are being aired by region and time?
+Is there a target voter that happens to be recieving a majority of the votes?
+
+For our current project we will research the political demographic information and aggregate the data with Political TV Ad Archive Data.
+
 
 Proposal will include a quick write up about the datasets we will use
 Political TV ad archive data 
@@ -9,10 +18,7 @@ Additional datasets: Number of electoral votes, number of popular votes, any for
 then move into analyses 
 Link to source of additional datasets: https://www.kaggle.com/benhamner/2016-us-election
 
-Owen would like to focus on the relationship between television advertisements and receiving votes.  This will be done by examining the correlation between number of adds run in a state by groups supporting a particular candidate and the percentage of votes that candidate received.  This will be further broken down by the various types of ads run to reach a more detailed level of analysis.  In the dataset, an ad will count as supporting a candidate regardless of whether it is run by the campaign itself or by an outside organization.  Once the overall correlation between ads and votes has been calculated, the ads dataset will be broken down by the following categories: message, program type, time of day, sponsor type, and state.  The correlations between ads and votes for these subgroups will allow us to reach more robust conclusions about the relationship between ads and electoral support in the 2016 presidential primary.
-
-If possible find total paid media for vote
-Elizabeth would like to explore creating geolocation and cluster data from the location information provided. Will need to find a package with coordinates of each city and state
+Owen would like to focus on the relationship between television advertisements and receiving votes.  This will be done by examining the correlation between number of adds run in a state by groups supporting a particular candidate and the percentage of votes that candidate received.  This will be further broken down by the various types of ads run to reach a more detailed level of analysis.  In the dataset, an ad will count as supporting a candidate regardless of whether it is run by the campaign itself or by an outside organization.  Once the overall correlation between ads and votes has been calculated, the ads dataset will be broken down by the following categories: message, program type, time of day, sponsor type, and state.  The correlaticoordinates of each city and state
 Once created start to determine where the most republican and democratic tv ads are, divy up by region, state..
 Also focus on when ads are happening and see, with visual, what ads are running at a certain time in the day. Will we find that republican ads happen mostly in the morning, will presidential ads only run in the evening?
 Additionally of those campaigning was there an inverse reaction that as more positive tv ad campaigns were posted votes decreased?
