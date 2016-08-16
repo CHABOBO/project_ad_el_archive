@@ -1,0 +1,356 @@
+state,candidate,count
+ NC,Bernie Sanders,413
+ NC,Donald Trump,193
+ NC,"Donald Trump, Ted Cruz",1
+ NC,Hillary Clinton,378
+ NC,Jeb Bush,1
+ NC,John Kasich,1
+ NC,Marco Rubio,23
+ NC,"Marco Rubio, Hillary Clinton, Jeb Bush",2
+ NC,"Marco Rubio, Jeb Bush",1
+ NC,Ted Cruz,1
+ NC,"Ted Cruz, Donald Trump, Hillary Clinton",1
+ NC,"Ted Cruz, Donald Trump, Marco Rubio",1
+ NC,"Ted Cruz, Hillary Clinton, Marco Rubio, Bernie Sanders",171
+ NC,"Ted Cruz, Marco Rubio",2
+CA,Bernie Sanders,397
+CA,"Bernie Sanders, Donald Trump, Hillary Clinton",11
+CA,Carly Fiorina,231
+CA,"Carly Fiorina, Hillary Clinton, Donald Trump, Ted Cruz",1
+CA,"Carly Fiorina, John Kasich, Hillary Clinton, Jeb Bush",2
+CA,Chris Christie,20
+CA,Donald Trump,750
+CA,"Donald Trump, ",10
+CA,"Donald Trump, Ben Carson, Jeb Bush, Ted Cruz, Marco Rubio",125
+CA,"Donald Trump, Ben Carson, Marco Rubio, Ted Cruz",186
+CA,"Donald Trump, Hillary Clinton",76
+CA,"Donald Trump, Jeb Bush",75
+CA,"Donald Trump, Marco Rubio",8
+CA,"Donald Trump, Ted Cruz",95
+CA,"Donald Trump, Ted Cruz, Chris Christie, Jeb Bush, Hillary Clinton",21
+CA,"Donald Trump, Ted Cruz, Hillary Clinton",3
+CA,"Donald Trump, Ted Cruz, Marco Rubio, Jeb Bush",155
+CA,Hillary Clinton,508
+CA,"Hillary Clinton, Donald Trump",23
+CA,Jeb Bush,297
+CA,"Jeb Bush, Donald Trump, Hillary Clinton",76
+CA,"Jeb Bush, Donald Trump, Ted Cruz",2
+CA,"Jeb Bush, Marco Rubio",59
+CA,"Jeb Bush, Marco Rubio, Chris Christie",5
+CA,John Kasich,127
+CA,"John Kasich, Donald Trump",11
+CA,"John Kasich, Hillary Clinton",2
+CA,"John Kasich, Hillary Clinton, Donald Trump, Ted Cruz",1
+CA,"John Kasich, Hillary Clinton, Ted Cruz",1
+CA,"John Kasich, Hillary Clinton, Ted Cruz, Donald Trump",1
+CA,"John Kasich, Jeb Bush",6
+CA,"John Kasich, Marco Rubio, Jeb Bush",1
+CA,"John Kasich, Ted Cruz",2
+CA,"John Kasich, Ted Cruz, Hillary Clinton, Donald Trump",1
+CA,Marco Rubio,1074
+CA,"Marco Rubio, Donald Trump",1
+CA,"Marco Rubio, Donald Trump, Ted Cruz",57
+CA,"Marco Rubio, Donald Trump, Ted Cruz, Hillary Clinton",77
+CA,"Marco Rubio, Hillary Clinton",122
+CA,"Marco Rubio, Hillary Clinton, Jeb Bush",45
+CA,"Marco Rubio, Jeb Bush",187
+CA,"Marco Rubio, John Kasich, Hillary Clinton",10
+CA,"Marco Rubio, Ted Cruz",25
+CA,Martin O'Malley,20
+CA,Ted Cruz,314
+CA,"Ted Cruz, Ben Carson, Hillary Clinton, John Kasich",12
+CA,"Ted Cruz, Donald Trump",106
+CA,"Ted Cruz, Donald Trump, Hillary Clinton",6
+CA,"Ted Cruz, Donald Trump, John Kasich",6
+CA,"Ted Cruz, Donald Trump, Marco Rubio",15
+CA,"Ted Cruz, Hillary Clinton",17
+CA,"Ted Cruz, John Kasich",17
+CA,"Ted Cruz, Marco Rubio",42
+CA,"Ted Cruz, Scott Walker",3
+CO,Bernie Sanders,2025
+CO,Carly Fiorina,1
+CO,Donald Trump,4
+CO,"Donald Trump, Hillary Clinton",3
+CO,"Donald Trump, Ted Cruz",5
+CO,"Donald Trump, Ted Cruz, Chris Christie, Jeb Bush, Hillary Clinton",1
+CO,Hillary Clinton,1212
+CO,Jeb Bush,2
+CO,"Jeb Bush, Donald Trump, Hillary Clinton",1
+CO,"Jeb Bush, Marco Rubio, Chris Christie",1
+CO,John Kasich,3
+CO,Marco Rubio,26
+CO,"Marco Rubio, Hillary Clinton, Jeb Bush",4
+CO,"Marco Rubio, Jeb Bush",1
+CO,Ted Cruz,2
+CO,"Ted Cruz, Donald Trump",2
+CO,"Ted Cruz, Donald Trump, Hillary Clinton",2
+CO,"Ted Cruz, Marco Rubio",4
+FL,Bernie Sanders,545
+FL,Donald Trump,1576
+FL,"Donald Trump, Hillary Clinton",3
+FL,"Donald Trump, Marco Rubio",363
+FL,"Donald Trump, Ted Cruz",11
+FL,"Donald Trump, Ted Cruz, Chris Christie, Jeb Bush, Hillary Clinton",4
+FL,Hillary Clinton,376
+FL,Jeb Bush,7
+FL,"Jeb Bush, Marco Rubio, Chris Christie",4
+FL,John Kasich,563
+FL,Marco Rubio,1861
+FL,"Marco Rubio, Donald Trump",814
+FL,"Marco Rubio, Hillary Clinton, Jeb Bush",6
+FL,"Marco Rubio, Jeb Bush",7
+FL,"Marco Rubio, Ted Cruz",2
+FL,"Mike Huckabee, Rick Santorum, Ted Cruz, Marco Rubio, Rand Paul, Jeb Bush, Donald Trump",1
+FL,Ted Cruz,8
+FL,"Ted Cruz, Donald Trump",2
+FL,"Ted Cruz, Donald Trump, Hillary Clinton",2
+FL,"Ted Cruz, Donald Trump, Marco Rubio",1
+FL,"Ted Cruz, Hillary Clinton, Marco Rubio, Bernie Sanders",93
+FL,"Ted Cruz, Marco Rubio",6
+IA,Bernie Sanders,11359
+IA,"Bernie Sanders, Donald Trump, Hillary Clinton",3
+IA,Carly Fiorina,1
+IA,"Chris Christie, Jeb Bush, John Kasich",233
+IA,Donald Trump,2715
+IA,"Donald Trump, Ben Carson, Jeb Bush, Ted Cruz, Marco Rubio",11
+IA,"Donald Trump, Ben Carson, Marco Rubio, Ted Cruz",13
+IA,"Donald Trump, Hillary Clinton",431
+IA,"Donald Trump, Jeb Bush",384
+IA,"Donald Trump, Ted Cruz",665
+IA,"Donald Trump, Ted Cruz, Chris Christie, Jeb Bush, Hillary Clinton",733
+IA,"Donald Trump, Ted Cruz, Marco Rubio, Jeb Bush",322
+IA,Hillary Clinton,10595
+IA,Jeb Bush,620
+IA,"Jeb Bush, Donald Trump, Hillary Clinton",23
+IA,"Jeb Bush, Marco Rubio",380
+IA,"Jeb Bush, Marco Rubio, Chris Christie",2
+IA,John Kasich,624
+IA,Marco Rubio,3469
+IA,"Marco Rubio, Donald Trump, Ted Cruz",2
+IA,"Marco Rubio, Hillary Clinton",216
+IA,"Marco Rubio, Hillary Clinton, Jeb Bush",6
+IA,"Marco Rubio, Jeb Bush",1000
+IA,"Marco Rubio, Ted Cruz",544
+IA,Mike Huckabee,410
+IA,"Mike Huckabee, Donald Trump",249
+IA,"Mike Huckabee, Ted Cruz",519
+IA,Ted Cruz,3021
+IA,"Ted Cruz, Donald Trump",100
+IA,"Ted Cruz, Donald Trump, Hillary Clinton",2
+IA,"Ted Cruz, Donald Trump, Marco Rubio",21
+IA,"Ted Cruz, Hillary Clinton",307
+IA,"Ted Cruz, Marco Rubio",59
+MA,Bernie Sanders,549
+MA,Chris Christie,37
+MA,Donald Trump,92
+MA,"Donald Trump, Ted Cruz",1
+MA,Hillary Clinton,632
+MA,Jeb Bush,90
+MA,John Kasich,7
+MA,"John Kasich, Donald Trump",20
+MA,"John Kasich, Jeb Bush",3
+MA,"John Kasich, Marco Rubio, Jeb Bush",6
+MA,Marco Rubio,65
+MA,"Marco Rubio, Donald Trump, Ted Cruz, Hillary Clinton",18
+MA,Ted Cruz,4
+MA,"Ted Cruz, Donald Trump",2
+MA,"Ted Cruz, Marco Rubio",23
+NC,Bernie Sanders,493
+NC,Carly Fiorina,1
+NC,Donald Trump,425
+NC,"Donald Trump, Hillary Clinton",2
+NC,"Donald Trump, Ted Cruz",2
+NC,"Donald Trump, Ted Cruz, Chris Christie, Jeb Bush, Hillary Clinton",1
+NC,Hillary Clinton,889
+NC,"Jeb Bush, Donald Trump, Ted Cruz",1
+NC,"Jeb Bush, Marco Rubio, Chris Christie",3
+NC,John Kasich,6
+NC,Marco Rubio,23
+NC,"Marco Rubio, Donald Trump, Ted Cruz",119
+NC,"Marco Rubio, Hillary Clinton, Jeb Bush",2
+NC,"Marco Rubio, Jeb Bush",1
+NC,Ted Cruz,4
+NC,"Ted Cruz, Donald Trump, Hillary Clinton",1
+NC,"Ted Cruz, Donald Trump, Marco Rubio",1
+NC,"Ted Cruz, Hillary Clinton, Marco Rubio, Bernie Sanders",118
+NC,"Ted Cruz, Marco Rubio",3
+NH,Bernie Sanders,4767
+NH,"Bernie Sanders, Donald Trump, Hillary Clinton",1
+NH,Chris Christie,1632
+NH,"Chris Christie, Hillary Clinton",513
+NH,"Chris Christie, Jeb Bush, John Kasich",292
+NH,Donald Trump,940
+NH,"Donald Trump, Ben Carson, Jeb Bush, Ted Cruz, Marco Rubio",3
+NH,"Donald Trump, Ben Carson, Marco Rubio, Ted Cruz",6
+NH,"Donald Trump, Jeb Bush",392
+NH,"Donald Trump, Ted Cruz",328
+NH,"Donald Trump, Ted Cruz, Chris Christie, Jeb Bush, Hillary Clinton",312
+NH,"Donald Trump, Ted Cruz, Marco Rubio, Jeb Bush",321
+NH,Hillary Clinton,3303
+NH,Jeb Bush,767
+NH,"Jeb Bush, Donald Trump, Hillary Clinton",9
+NH,John Kasich,1019
+NH,"John Kasich, Chris Christie, Donald Trump, Marco Rubio, Hillary Clinton",148
+NH,"John Kasich, Donald Trump",147
+NH,"John Kasich, Donald Trump, Ted Cruz",31
+NH,"John Kasich, Jeb Bush",158
+NH,"John Kasich, Marco Rubio, Jeb Bush",83
+NH,Marco Rubio,1384
+NH,"Marco Rubio, Donald Trump, Ted Cruz, Hillary Clinton",24
+NH,"Marco Rubio, Hillary Clinton",124
+NH,"Marco Rubio, Hillary Clinton, Jeb Bush",285
+NH,"Marco Rubio, Jeb Bush",355
+NH,"Marco Rubio, Ted Cruz",2
+NH,Ted Cruz,545
+NH,"Ted Cruz, Hillary Clinton",85
+NH,"Ted Cruz, Marco Rubio",14
+NV,Bernie Sanders,5877
+NV,"Bernie Sanders, Donald Trump, Hillary Clinton",1
+NV,Donald Trump,670
+NV,"Donald Trump, Ben Carson, Jeb Bush, Ted Cruz, Marco Rubio",7
+NV,"Donald Trump, Ben Carson, Marco Rubio, Ted Cruz",1
+NV,"Donald Trump, Hillary Clinton",1
+NV,"Donald Trump, Jeb Bush",1
+NV,"Donald Trump, Ted Cruz",4
+NV,"Donald Trump, Ted Cruz, Chris Christie, Jeb Bush, Hillary Clinton",1
+NV,Hillary Clinton,4279
+NV,Jeb Bush,71
+NV,"Jeb Bush, Donald Trump, Hillary Clinton",2
+NV,"Jeb Bush, Marco Rubio, Chris Christie",1
+NV,John Kasich,3
+NV,Marco Rubio,126
+NV,"Marco Rubio, Donald Trump, Ted Cruz, Hillary Clinton",527
+NV,"Marco Rubio, Hillary Clinton, Jeb Bush",4
+NV,"Marco Rubio, Jeb Bush",2
+NV,"Marco Rubio, Ted Cruz",6
+NV,Ted Cruz,300
+NV,"Ted Cruz, Donald Trump",94
+NV,"Ted Cruz, Donald Trump, Hillary Clinton",1
+NV,"Ted Cruz, Hillary Clinton",23
+NV,"Ted Cruz, Marco Rubio",2
+NY,Ben Carson,1
+NY,Bernie Sanders,815
+NY,"Bernie Sanders, Donald Trump, Hillary Clinton",1
+NY,Carly Fiorina,6
+NY,Chris Christie,2
+NY,Donald Trump,20
+NY,"Donald Trump, Ben Carson, Jeb Bush, Ted Cruz, Marco Rubio",6
+NY,"Donald Trump, Ben Carson, Marco Rubio, Ted Cruz",4
+NY,"Donald Trump, Jeb Bush",1
+NY,"Donald Trump, Ted Cruz",5
+NY,"Donald Trump, Ted Cruz, Chris Christie, Jeb Bush, Hillary Clinton",1
+NY,"Donald Trump, Ted Cruz, Marco Rubio, Jeb Bush",1
+NY,Hillary Clinton,666
+NY,"Hillary Clinton, Donald Trump",242
+NY,Jeb Bush,2
+NY,"Jeb Bush, Donald Trump, Hillary Clinton",2
+NY,"Jeb Bush, Marco Rubio, Chris Christie",1
+NY,John Kasich,4
+NY,Marco Rubio,21
+NY,"Marco Rubio, Hillary Clinton, Jeb Bush",2
+NY,"Marco Rubio, Jeb Bush",1
+NY,Ted Cruz,7
+NY,"Ted Cruz, Donald Trump",1
+NY,"Ted Cruz, Donald Trump, Hillary Clinton",1
+NY,"Ted Cruz, Donald Trump, John Kasich",8
+NY,"Ted Cruz, Donald Trump, Marco Rubio",1
+NY,"Ted Cruz, Hillary Clinton",2
+NY,"Ted Cruz, Marco Rubio",1
+OH,Bernie Sanders,1500
+OH,Carly Fiorina,5
+OH,Donald Trump,763
+OH,"Donald Trump, Hillary Clinton",2
+OH,"Donald Trump, John Kasich",96
+OH,"Donald Trump, Ted Cruz",3
+OH,"Donald Trump, Ted Cruz, Chris Christie, Jeb Bush, Hillary Clinton",4
+OH,Hillary Clinton,1665
+OH,Jeb Bush,2
+OH,"Jeb Bush, Marco Rubio, Chris Christie",3
+OH,John Kasich,648
+OH,"John Kasich, Donald Trump",272
+OH,"John Kasich, Donald Trump, Ted Cruz",311
+OH,Marco Rubio,20
+OH,"Marco Rubio, Hillary Clinton, Jeb Bush",4
+OH,"Marco Rubio, Jeb Bush",2
+OH,Ted Cruz,4
+OH,"Ted Cruz, Donald Trump",1
+OH,"Ted Cruz, Donald Trump, Hillary Clinton",1
+OH,"Ted Cruz, Donald Trump, Marco Rubio",2
+OH,"Ted Cruz, Marco Rubio",1
+PA,Bernie Sanders,943
+PA,"Bernie Sanders, Donald Trump, Hillary Clinton",1
+PA,Carly Fiorina,16
+PA,Chris Christie,1
+PA,Donald Trump,374
+PA,"Donald Trump, Ben Carson, Jeb Bush, Ted Cruz, Marco Rubio",50
+PA,"Donald Trump, Ben Carson, Marco Rubio, Ted Cruz",47
+PA,"Donald Trump, Hillary Clinton",1
+PA,"Donald Trump, Jeb Bush",1
+PA,"Donald Trump, Ted Cruz",7
+PA,"Donald Trump, Ted Cruz, Chris Christie, Jeb Bush, Hillary Clinton",2
+PA,"Donald Trump, Ted Cruz, Marco Rubio, Jeb Bush",1
+PA,Hillary Clinton,812
+PA,"Hillary Clinton, Donald Trump",50
+PA,Jeb Bush,3
+PA,"Jeb Bush, Donald Trump, Hillary Clinton",2
+PA,"Jeb Bush, Marco Rubio, Chris Christie",1
+PA,John Kasich,8
+PA,"John Kasich, Chris Christie, Donald Trump, Marco Rubio, Hillary Clinton",1
+PA,Marco Rubio,97
+PA,"Marco Rubio, Hillary Clinton, Jeb Bush",2
+PA,"Marco Rubio, Jeb Bush",1
+PA,"Martin O'Malley, Bernie Sanders, Jeb Bush, Hillary Clinton, Donald Trump, Carly Fiorina",22
+PA,Ted Cruz,4
+PA,"Ted Cruz, Donald Trump",2
+PA,"Ted Cruz, Donald Trump, Hillary Clinton",1
+PA,"Ted Cruz, Donald Trump, Marco Rubio",3
+PA,"Ted Cruz, Hillary Clinton",172
+PA,"Ted Cruz, Marco Rubio",2
+SC,Bernie Sanders,1385
+SC,Carly Fiorina,1
+SC,Donald Trump,517
+SC,"Donald Trump, Ben Carson, Jeb Bush, Ted Cruz, Marco Rubio",4
+SC,"Donald Trump, Ben Carson, Marco Rubio, Ted Cruz",3
+SC,"Donald Trump, Hillary Clinton",104
+SC,"Donald Trump, Jeb Bush",44
+SC,"Donald Trump, Ted Cruz",440
+SC,"Donald Trump, Ted Cruz, Chris Christie, Jeb Bush, Hillary Clinton",4
+SC,"Donald Trump, Ted Cruz, Marco Rubio, Jeb Bush",62
+SC,Hillary Clinton,2004
+SC,Jeb Bush,1558
+SC,"Jeb Bush, Donald Trump, Hillary Clinton",2
+SC,"Jeb Bush, Donald Trump, Marco Rubio",66
+SC,"Jeb Bush, Donald Trump, Ted Cruz",221
+SC,"Jeb Bush, Marco Rubio, Chris Christie",2
+SC,John Kasich,724
+SC,"John Kasich, Jeb Bush",85
+SC,"John Kasich, Marco Rubio, Jeb Bush",11
+SC,Marco Rubio,3627
+SC,"Marco Rubio, Donald Trump, Ted Cruz, Hillary Clinton",260
+SC,"Marco Rubio, Hillary Clinton",124
+SC,"Marco Rubio, Hillary Clinton, Jeb Bush",284
+SC,"Marco Rubio, Jeb Bush",339
+SC,"Marco Rubio, Ted Cruz",552
+SC,Ted Cruz,1740
+SC,"Ted Cruz, Donald Trump",118
+SC,"Ted Cruz, Donald Trump, Marco Rubio",1
+SC,"Ted Cruz, Hillary Clinton",106
+SC,"Ted Cruz, Marco Rubio",405
+VA,Bernie Sanders,7
+VA,Carly Fiorina,5
+VA,Donald Trump,114
+VA,"Donald Trump, Ben Carson, Jeb Bush, Ted Cruz, Marco Rubio",18
+VA,"Donald Trump, Ben Carson, Marco Rubio, Ted Cruz",14
+VA,"Donald Trump, Ted Cruz",5
+VA,"Donald Trump, Ted Cruz, Chris Christie, Jeb Bush, Hillary Clinton",4
+VA,Hillary Clinton,356
+VA,"Hillary Clinton, Donald Trump",2
+VA,Jeb Bush,2
+VA,John Kasich,6
+VA,Marco Rubio,59
+VA,"Marco Rubio, Donald Trump, Ted Cruz",244
+VA,"Marco Rubio, Hillary Clinton, Jeb Bush",5
+VA,"Marco Rubio, Jeb Bush",1
+VA,"Martin O'Malley, Bernie Sanders, Jeb Bush, Hillary Clinton, Donald Trump, Carly Fiorina",1
+VA,Ted Cruz,5
+VA,"Ted Cruz, Marco Rubio",4
